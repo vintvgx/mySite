@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.611c29aa.chunk.css",
+    "main.js": "/static/js/main.15575e57.chunk.js",
+    "main.js.map": "/static/js/main.15575e57.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f87e9630.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f87e9630.js.map",
+    "static/js/2.c47bd007.chunk.js": "/static/js/2.c47bd007.chunk.js",
+    "static/js/2.c47bd007.chunk.js.map": "/static/js/2.c47bd007.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c3e6a5025af0385c78431c8195b4c63.js": "/precache-manifest.3c3e6a5025af0385c78431c8195b4c63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.611c29aa.chunk.css.map": "/static/css/main.611c29aa.chunk.css.map",
+    "static/js/2.c47bd007.chunk.js.LICENSE.txt": "/static/js/2.c47bd007.chunk.js.LICENSE.txt",
+    "static/media/Adobe.png": "/static/media/Adobe.305762fc.png",
+    "static/media/CSS.png": "/static/media/CSS.1231be6c.png",
+    "static/media/Iphone13Launch.png": "/static/media/Iphone13Launch.aaa5d5dc.png",
+    "static/media/JS.png": "/static/media/JS.d3304b83.png",
+    "static/media/Node.png": "/static/media/Node.4c6c0929.png",
+    "static/media/React.png": "/static/media/React.2d2b0d56.png",
+    "static/media/banditTech.png": "/static/media/banditTech.427ffcea.png",
+    "static/media/comptia.png": "/static/media/comptia.28a89d28.png",
+    "static/media/profile.jpg": "/static/media/profile.ccc745cd.jpg",
+    "static/media/resume.pdf": "/static/media/resume.553d31f4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f87e9630.js",
+    "static/js/2.c47bd007.chunk.js",
+    "static/css/main.611c29aa.chunk.css",
+    "static/js/main.15575e57.chunk.js"
+  ]
+}
